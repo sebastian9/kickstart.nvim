@@ -622,6 +622,8 @@ require('lazy').setup({
         'tsserver',
         'eslint_d',
         'prettierd',
+        -- YAML
+        'yamlls',
       })
       require('mason-tool-installer').setup { ensure_installed = ensure_installed }
 

@@ -5,4 +5,5 @@
 return {
   'github/copilot.vim',
   'ThePrimeagen/vim-be-good',
+  'ryanoasis/vim-devicons',
 }
