@@ -6,9 +6,6 @@ Refer to Lazy vim for configuration http://www.lazyvim.org/extras
 
 * hardtime
 * X-ray signature
-* Close quote and parens for me https://github.com/echasnovski/mini.pairs.git
-* Extend inside and around selection pairs https://github.com/echasnovski/mini.ai.git
-* replace file tree https://github.com/nvim-neo-tree/neo-tree.nvim.git
 * search and replace across files https://github.com/MagicDuck/grug-far.nvim.git
 * auto html tags https://github.com/windwp/nvim-ts-autotag
 * start screen https://github.com/nvimdev/dashboard-nvim.git

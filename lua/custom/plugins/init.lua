@@ -2,11 +2,11 @@
 --  I promise not to create any merge conflicts in this directory :)
 --
 -- See the kickstart.nvim README for more information
-vim.keymap.set('n', '<leader>n', ':NERDTreeFocus<CR>', { desc = 'Open [N]ERDTreeFocus' })
+vim.keymap.set('n', '<leader><Tab>', '<C-^>', { desc = 'Go to alternate buffer' })
+vim.keymap.set('n', '<leader>fs', ':w<CR>', { desc = 'Save buffer' })
 
 return {
-  'github/copilot.vim',
+  -- 'github/copilot.vim',
   'ThePrimeagen/vim-be-good',
   'ryanoasis/vim-devicons',
-  'preservim/nerdtree',
 }
