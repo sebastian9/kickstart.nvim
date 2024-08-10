@@ -10,8 +10,6 @@ Refer to Lazy vim for configuration http://www.lazyvim.org/extras
 * auto html tags https://github.com/windwp/nvim-ts-autotag
 * start screen https://github.com/nvimdev/dashboard-nvim.git
 * persist sessions https://github.com/folke/persistence.nvim
-* likely a dependency https://github.com/nvim-lua/plenary.nvim.git
-* autodocstring https://github.com/danymat/neogen.git
 * nice debugger stuff http://www.lazyvim.org/extras/dap/core
 ** https://github.com/mfussenegger/nvim-dap-python
 * chef kiss code discovery https://github.com/stevearc/aerial.nvim.git
@@ -26,6 +24,7 @@ Refer to Lazy vim for configuration http://www.lazyvim.org/extras
 
 meh
 
+* autodocstring https://github.com/danymat/neogen.git
 * faster search with labels https://github.com/folke/flash.nvim.git
 * faster formatter https://github.com/stevearc/conform.nvim.git
 * faster surround search mini.surround

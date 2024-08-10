@@ -3,7 +3,8 @@
 --
 -- See the kickstart.nvim README for more information
 vim.keymap.set('n', '<leader><Tab>', '<C-^>', { desc = 'Go to alternate buffer' })
-vim.keymap.set('n', '<leader>fs', ':w<CR>', { desc = 'Save buffer' })
+vim.keymap.set('n', '<leader>fs', ':w<CR>', { desc = '[F]ile [S]ave buffer' })
+vim.keymap.set('n', '<leader>bd', ':bd<CR>', { desc = '[B]uffer [D]elete' })
 
 return {
   -- 'github/copilot.vim',
